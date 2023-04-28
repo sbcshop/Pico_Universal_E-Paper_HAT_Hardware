@@ -7,6 +7,6 @@ Universal ePaper HAT is based on the Raspberry Pi Pico W which can be attached t
 In this github repo you will find all hardware files.
 
 ### Repository Contents:
-  - [/Design Data]() - This directory contains Schematic and Dimension files
-  - [/Mecahnical Data]() - This directory contains 3D and STEP files
+  - [/Design Data](https://github.com/sbcshop/Pico_Universal_E-Paper_HAT_Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
+  - [/Mecahnical Data](https://github.com/sbcshop/Pico_Universal_E-Paper_HAT_Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
   - [Pico Universal E-Paper HAT Getting Started](https://github.com/sbcshop/Pico_Universal_E-Paper_HAT_Software) - This repo contains Getting Started Guide and Sample Codes.
